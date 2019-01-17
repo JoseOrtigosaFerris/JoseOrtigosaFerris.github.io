@@ -1,7 +1,10 @@
+---
 title: "About"
-permalink:/about/
+permalink: /about/
 header:
-  images: "/images/avatar2.jpg"
-  ---
+  image: "/images/avatar2.jpg"
+---
 
-I'm a a dick
+I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
+
+Etc, etc, etc
