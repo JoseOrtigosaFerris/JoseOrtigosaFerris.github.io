@@ -1,11 +1,10 @@
 ---
-title: "portfolio"
+title: "Portfolio"
 permalink: /Portfolio/
 header:
-  image: "/images/avatar2.jpg"
----
+  image: "/images/front.jpg"
 
-# Data science portfolio by Jose Ortigosa Ferris
+---
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
