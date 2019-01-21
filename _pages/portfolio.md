@@ -1,6 +1,6 @@
 ---
-title: "About"
-permalink: /about/
+title: "portfolio"
+permalink: /Portfolio/
 header:
   image: "/images/avatar2.jpg"
 ---
