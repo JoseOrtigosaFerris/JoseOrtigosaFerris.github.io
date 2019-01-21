@@ -2,7 +2,7 @@
 title: "Portfolio"
 permalink: /Portfolio/
 header:
-  image: "/images/front.jpg"
+  image: "/images/newfront.jpg"
 
 ---
 
