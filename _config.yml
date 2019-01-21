@@ -128,7 +128,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-instagram-square"
       url: "https://instagram.com/joseconomy"
 
 # Site Footer
@@ -151,8 +151,8 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
-
+      url: "https://instagram.com/joseconomy"
+bh
 
 # Reading Files
 include:
