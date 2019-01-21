@@ -1,7 +1,6 @@
 ---
-layout: single
-title: "Portfolio"
-permalink: /Portfolio/
+title: "About"
+permalink: /about/
 header:
   image: "/images/avatar2.jpg"
 ---
