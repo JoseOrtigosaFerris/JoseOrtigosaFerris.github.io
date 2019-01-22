@@ -3,7 +3,7 @@ layout: single
 title: "About"
 permalink: /
 header:
-  image: "/images/front.jpg"
+  image: "/images/newfront.jpg"
 author_profile: true
 ---
 
