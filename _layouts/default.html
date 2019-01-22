@@ -13,12 +13,12 @@
     {% include head.html %}
     {% include head/custom.html %}
   </head>
-
+#1 111
   <body class="layout--{{ page.layout | default: layout.layout }}{% if page.classes or layout.classes %}{{ page.classes | default: layout.classes | join: ' ' | prepend: ' ' }}{% endif %}">
 
     {% include_cached browser-upgrade.html %}
     {% include_cached masthead.html %}
-
+#2 222
     <div class="initial-content">
       {{ content }}
     </div>
@@ -28,7 +28,7 @@
         {% include_cached search/search_form.html %}
       </div>
     {% endif %}
-
+#3 333
     <div class="page__footer">
       <footer>
         {% include footer/custom.html %}
@@ -47,6 +47,7 @@
   </div>
 
     {% include scripts.html %}
-
+#4 444
   </body>
+#5 555
 </html>
