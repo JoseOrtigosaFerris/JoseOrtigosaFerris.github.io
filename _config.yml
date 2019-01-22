@@ -126,7 +126,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-linkedin"
-       url:  "https://linkedin.com/in/joseconomy"
+      url:  "https://linkedin.com/in/joseconomy"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
        url: "https://instagram.com/joseconomy"
