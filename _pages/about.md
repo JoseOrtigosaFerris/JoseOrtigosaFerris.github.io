@@ -1,10 +1,9 @@
 ---
-title: "About"
+title: "About me"
 permalink: /about/
 header:
   image: "/images/avatar2.jpg"
 ---
 
-I'm a senior data scientist who excels at data wrangling, machine learning, exploratory analysis, and data visualizations.
 
-Etc, etc, etc
+My name is Jose, I'm a graduate in economics from the south of Spain(Alicante).
