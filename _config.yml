@@ -113,7 +113,7 @@ author:
   email            :
   links:
     - label: "jose.ortigosa.ferris@gmail.com"
-      icon: "fas fa-fw fa-envelope-square"
+       icon: "fas fa-fw fa-envelope-square"
        url: mailto:jose.ortigosa.ferris@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
