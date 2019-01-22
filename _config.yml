@@ -112,7 +112,7 @@ author:
   location         : "Leicester, UK"
   email            :
   links:
-    - label: "email"
+    - label: "Jose.Ortigosa.Ferris@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:jose.ortigosa.ferris@gmail.com
     - label: "Website"
@@ -124,7 +124,7 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url:  "https://linkedin.com/in/joseconomy"
     - label: "Instagram"

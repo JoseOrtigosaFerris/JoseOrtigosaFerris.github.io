@@ -5,7 +5,7 @@ header:
   image: "/images/newfront.jpg"
 ---
 
-
+![Jose](/images/avatar.jpeg)
 My name is Jose, I'm a graduate in economics from the south of Spain(Alicante).
 
 Currently, I live in Leicester, United Kingdom. Where I've been for a year.
