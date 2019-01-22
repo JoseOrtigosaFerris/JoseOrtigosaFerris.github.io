@@ -2,8 +2,10 @@
 main:
    - title: "About me"
      url: /about/
-   - title: "machine learning"
-     url: /data-wrangling/
+   - title: "Portfolio"
+     url: /portfolio/
+   #- title: "machine learning"
+  #   url: /data-wrangling/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
