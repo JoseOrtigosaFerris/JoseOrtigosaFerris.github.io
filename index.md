@@ -6,7 +6,7 @@ header:
   image: "/images/newfront.jpg"
 author_profile: true
 ---
-# Data science portfolio by Jose Ortigosa Ferris
+# [Data science portfolio by Jose Ortigosa Ferris](#)
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
 
