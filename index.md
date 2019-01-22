@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "About"
+title: ""
 permalink: /
 header:
   image: "/images/newfront.jpg"
