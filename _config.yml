@@ -112,9 +112,9 @@ author:
   location         : "Leicester, UK"
   email            :
   links:
-    - label: "Jose.Ortigosa.Ferris@gmail.com"
+    - label: "contact@joseortife.com"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:jose.ortigosa.ferris@gmail.com
+      url: mailto:contact@joseortife.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
