@@ -3,11 +3,8 @@ title: "California housing prices"
 permalink: /california/
 header:
   image: "/images/newfront.jpg"
-classes: wide
+toc: true
 ---
-
-
-# ****California Housing Prices (a linear regression and a XGboost)****
 
 ## Table of Contents:
 * [1-Preprocessing the data](#preprocessing)
@@ -281,7 +278,7 @@ sns.heatmap(df.corr(), linewidths=.5,annot=True,mask=mask,cmap='coolwarm')
 
 
 
-![png](/images/output_9_1.png)
+![png](/images/california/output_9_1.png)
 
 
 
@@ -324,7 +321,7 @@ sns.heatmap(df.corr(), linewidths=.5,annot=True,mask=mask,cmap='coolwarm')
 
 
 
-![png](/images/output_13_1.png)
+![png](/images/california/output_13_1.png)
 
 
 
@@ -335,7 +332,7 @@ plt.show()
 ```
 
 
-![png](/images/output_14_0.png)
+![png](/images/california/output_14_0.png)
 
 
 
@@ -356,7 +353,7 @@ sns.boxplot(x=df['median_house_value'])
 
 
 
-![png](/images/output_15_1.png)
+![png](/images/california/output_15_1.png)
 
 
 
@@ -364,7 +361,7 @@ sns.boxplot(x=df['median_house_value'])
 
 
 
-![png](/images/output_15_3.png)
+![png](/images/california/output_15_3.png)
 
 
 
@@ -455,7 +452,7 @@ plt.legend(['Actual','Predicted'],prop={'size': 20})
 
 
 
-![png](/images/output_25_1.png)
+![png](/images/california/output_25_1.png)
 
 
 # XGBoost <a class="anchor" id="Xgboost"></a>
@@ -497,7 +494,7 @@ plt.legend(['Actual','Predicted'],prop={'size': 20})
 
 
 
-![png](/images/output_31_1.png)
+![png](/images/california/output_31_1.png)
 
 
 
@@ -517,7 +514,7 @@ plt.show()
 ```
 
 
-![png](/images/output_33_0.png)
+![png](/images/california/output_33_0.png)
 
 
 
@@ -560,9 +557,3 @@ print('Stats xgboost: \n','mean squared error: ',rms2, '\n R2:',r2xgb,' \n mean 
      mean squared error:  41242.84075742074
      R2: 0.8227763364288538  
      mean absolute error: 27488.045577549237
-
-
-
-```python
-
-```
