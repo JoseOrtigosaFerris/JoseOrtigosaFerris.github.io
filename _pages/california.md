@@ -283,7 +283,7 @@ sns.heatmap(df.corr(), linewidths=.5,annot=True,mask=mask,cmap='coolwarm')
 
 
 ```python
-#There is a high correlation between households and populati
+#There is a high correlation between households and population
 df.drop('households', axis=1, inplace=True)
 
 ```
