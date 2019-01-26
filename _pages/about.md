@@ -3,6 +3,7 @@ title: "About me"
 permalink: /about/
 header:
   image: "/images/newfront.jpg"
+classes: Wide
 ---
 
 ![Jose](/images/avatar.jpeg)
