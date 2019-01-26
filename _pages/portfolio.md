@@ -3,7 +3,7 @@ title: "About"
 permalink: /portfolio/
 header:
   image: "/images/newfront.jpg"
-classes: wide
+toc: true
 ---
 
 This portfolio is a compilation of notebooks which I created for data analysis or for exploration of machine learning algorithms. A separate category is for separate projects.
