@@ -3,7 +3,7 @@ title: "California housing prices"
 permalink: /california/
 header:
   image: "/images/newfront.jpg"
-toc: true
+classes: wide
 ---
 
 ## Table of Contents:

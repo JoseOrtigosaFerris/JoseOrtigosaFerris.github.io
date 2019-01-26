@@ -4,8 +4,6 @@ main:
      url: /about/
    - title: "Portfolio"
      url: /portfolio/
-   - title: "California"
-     url: /california/
    #- title: "machine learning"
   #   url: /data-wrangling/
   # - title: "Sample Collections"

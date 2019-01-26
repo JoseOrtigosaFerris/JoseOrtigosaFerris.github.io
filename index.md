@@ -16,7 +16,7 @@ This portfolio is a compilation of notebooks which I created for data analysis o
 
 In this project I am trying to predict the housing prices in California using features like the age of the house or  its proximity to the ocean. For this project I used a simple linear regression and the XGboost method.
 
-the code can be found [here](https://www.kaggle.com/joseconomy/california-housing-prices-regression-under-work).
+the code can be found [here](https://joseortigosaferris.github.io/california/).
 
 ### Minimizing the Churn Rate Through Analysis of Financial Habits
 
